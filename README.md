@@ -4,6 +4,9 @@
 2. Write a few unit tests.
 3. There are no right answers but this should provoke some thought or at least fall under the category of "things that make you go hmph".
 
+# Participating
+Fork my repo and send a PR by the end of October 18th (Friday).
+
 Topics
 1. async api design
 2. proper usage of async/await
