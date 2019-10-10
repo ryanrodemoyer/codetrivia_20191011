@@ -7,7 +7,7 @@
 # Participating
 Fork my repo and send a PR by the end of October 18th (Friday).
 
-Topics
+# Topics
 1. async api design
 2. proper usage of async/await
 3. unit testing
