@@ -12,7 +12,7 @@
 </Query>
 
 // 1. How would you improve the class MyApiSomething?
-// 2. Fill in the unit tests.
+// 2. Write a few unit tests.
 // 3. There are no right answers but this should provoke some thought,
 // 		or at least fall under the category of "things that make you go hmph".
 
