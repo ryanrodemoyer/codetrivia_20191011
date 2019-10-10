@@ -24,7 +24,7 @@
 
 // to use Typemock in LINQPad we need to set two system environment variables
 // run these commands yourself from an admin prompt, then restart LINQPad
-// SETX /M COR_PROFILER {B146457E-9AED-4624-B1E5-968D274416EC}
+// SETX /M COR_PROFILER "{B146457E-9AED-4624-B1E5-968D274416EC}"
 // SETX /M Cor_Enable_Profiling 0x1
 
 async Task Main(string[] args)
