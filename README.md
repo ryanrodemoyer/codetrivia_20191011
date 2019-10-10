@@ -7,6 +7,12 @@
 # Participating
 Fork my repo and send a PR by the end of October 18th (Friday).
 
+# This is really cool
+With a single LINQPad script you can:
+* write functional code
+* and/or, reference arbitary assemblies
+* write and run unit tests with NUnit (via NUnitLite) **and Typemock**!
+
 # Topics
 1. async api design
 2. proper usage of async/await
