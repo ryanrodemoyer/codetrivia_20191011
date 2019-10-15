@@ -5,7 +5,7 @@
 3. There are no right answers but this should provoke some thought or at least fall under the category of "things that make you go hmph".
 
 # Participating
-Fork my repo and send a PR by the end of October 18th (Friday).
+Fork my repo and send a PR by the end of October 21st (Monday).
 
 # This is really cool
 With a single LINQPad script you can:
